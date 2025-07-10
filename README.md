@@ -65,5 +65,58 @@ Predict the sale price of houses based on:
 | Test R²       | 0.85       |
 
 
+<table>
+  <tr>
+    <td>
+      <strong>📈 Actual vs Predicted House Prices</strong><br>
+      <img src="output_images/Actual vs Predicted House Prices.png" width="400">
+    </td>
+    <td>
+      <strong>📉 Residuals Distribution</strong><br>
+      <img src="output_images/Residuals Distribution.png" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>🔥 Feature Correlation Heatmap</strong><br>
+      <img src="output_images/Feature Correlation Heatmap.png" width="400">
+    </td>
+    <td>
+      <strong>🔍 Pairwise Feature Relationships</strong><br>
+      <img src="output_images/Pairwise Feature Relationships.png" width="400">
+    </td>
+  </tr>
+</table>
+
+
 ---
 
+---
+## 🚀 Getting Started
+
+1. Clone the repository  
+   `git clone https://github.com/yourusername/house-price-linear-regression.git`  
+   `cd house-price-linear-regression`
+
+2. Install dependencies  
+   `pip install -r requirements.txt`
+
+3. Run the notebook  
+   Open `house_price_regression.ipynb` in Jupyter or Colab.
+
+## 🧠 Model Used  
+LinearRegression() from sklearn.linear_model
+
+
+## 📌 License  
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+---
+
+## ✍️ Author  
+👤 **Shreyak Mukherjee**  
+📂 GitHub: [shreyakmukherjee](https://github.com/shreyakmukherjee)  
+🔗 LinkedIn: [linkedin.com/in/shreyakmukherjee](https://www.linkedin.com/in/shreyak-mukherjee-203558275/)  
+Feel free to connect or explore more projects!
+
+---
